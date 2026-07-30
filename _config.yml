@@ -1,4 +1,4 @@
-title: Taylor Wang
-description: tw2994@columbia.edu hello
-#logo: /assets/img/headshot_circle.png 
-true theme: jekyll-theme-minimal
+title: "Taylor Wang"
+description: "tw2994@columbia.edu"
+theme: jekyll-theme-minimal
+show_downloads: false
