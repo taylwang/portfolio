@@ -9,7 +9,7 @@ Hello, my name is Taylor Wang. I am pursuing a B.S. in Electrical Engineering at
 ## Left Ventricle Identification in Echocardiograms
 An algorithm that identifies the left ventricle in echocardiograms to assist cardiac sonographers in diagnosing heart diseases. The pipeline consists of four main stages: image denoising and contrast enhancement, component segmentation via watershed analysis, heuristic component merging, and ventricle identification through a weighted centroid, area, and shape error metric. The following paper details the algorithm in depth and showcases its output.
 
-Contribution - The left ventricle identification algorithm was designed by me (Taylor Wang). The mitral valve leaflet identification algorithm was designed by my classmate Julian Conigliaro. The paper was revised by my classmate Cooper Xie. 
+Contribution - The left ventricle identification algorithm was designed by me (Taylor Wang). The mitral valve leaflet identification algorithm was designed by my classmate Julian Conigliaro. The paper were revised by my classmates Cooper Xie and Ara Beigi. 
 [Read the paper (PDF)](documents/left_ventricle_identification_algorithm.pdf)
 
 ## Energy Harvesting with a Piezoelectric Material Situated on an Oscillating Cantilever
