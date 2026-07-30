@@ -1,6 +1,6 @@
 # Background
 
-Hello, my name is Taylor Wang. I am pursuing a B.S. in Electrical Engineering at Columbia University and expect to graduate in May 2027. Following graduation, I plan to pursue opportunities in either academia or industry. My primary interests are in signal processing, remote sensing, and computational imaging. More broadly, I have developed a strong interdisciplinary foundation spanning electrical engineering, programming, physics, and chemistry, enabling me to approach complex technical problems from multiple perspectives. This portfolio highlights a selection of projects that reflect my technical skills, research experience, and problem-solving approach. Each project demonstrates both the analytical rigor and creativity that I bring to engineering challenges.
+Hello, my name is Taylor Wang. I am pursuing a B.S. in Electrical Engineering at Columbia University and expect to graduate in May 2027. Following graduation, I plan to pursue opportunities in either academia or industry. My primary interests are in signal processing, remote sensing, and computational imaging. More broadly, I have developed a strong interdisciplinary foundation spanning electrical engineering, programming, physics, and chemistry, enabling me to approach complex technical problems from multiple perspectives. This portfolio highlights a selection of projects that reflect my technical skills, research experience, and problem-solving approach.
 
 # Resume
 [Read my resume (PDF)](documents/resume.pdf)
