@@ -13,15 +13,15 @@ Contribution - The left ventricle identification algorithm was designed by me (T
 [Read the paper (PDF)](documents/left_ventricle_identification_algorithm.pdf)
 
 ## Energy Harvesting with a Piezoelectric Material Situated on an Oscillating Cantilever
-A cantilever with a piezoelectric material mounted on it to produce energy for sensors in pipelines. The cantilever oscillated in the presence of flowing fluid, causing the piezoelectric material to bend and generate energy. Simulations of strain in differently shaped cantilevers aided in selecting an optimal design. The piezoelectric material was secured to different locations of the cantilever to determine the best position. The following paper details the manufacturing steps for the ideal cantilever and the testing for optimal piezoelectric material placement
+A cantilever with a piezoelectric material mounted on it to produce energy for sensors in pipelines. The cantilever oscillated in the presence of flowing fluid, causing the piezoelectric material to bend and generate energy. Simulations of strain in differently shaped cantilevers aided in selecting an optimal design. The piezoelectric material was secured to different locations of the cantilever to determine the best position. The following paper details the manufacturing steps for the ideal cantilever and the testing for optimal piezoelectric material placement.
 
 Contribution - Equipment, data, results, and paper produced by me (Taylor Wang). Experiments designed by my mentor Rajinder Deol.
 [Read the paper (PDF)](documents/energy_harvesting_with_cantilever.pdf)
 
 ## Graphical User Interface to Collect Microscope Images
-A graphical user interface to simplify image acquisition using Mad City Labs’ microscope. The user interface accepted start and end positions along all spatial dimensions, and collected images in a grid-like structure within the defined bounds. The user interface also provided an option to acquire images at manually selected points. The following documentation explains how to use the graphical user interface.
+A graphical user interface to simplify image acquisition using Mad City Labs’ microscope. The user interface accepts start and end positions along all spatial dimensions, and collects images in a grid-like structure within the defined bounds. The user interface also provides an option to acquire images at manually selected points. The following documentation explains how to use the graphical user interface.
 
-Contribution - Graphical user interface built by me (Taylor Wang). Techincal help received from my coworker Greg Sawyer. 
+Contribution - Graphical user interface built by me (Taylor Wang). Technical help received from my coworker Greg Sawyer. 
 [Read the documentation (PDF)](documents/microscope_image_acquisition_gui.pdf)
 
 ## Radio Frequency Interference in Weather Radiometers
