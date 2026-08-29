@@ -29,3 +29,9 @@ A study of radio frequency interference in weather radiometers. Instances of rad
 
 Contribution - The interference plots and neural network were produced by me (Taylor Wang). The interference identification algorithm was produced by my mentor Abhishek Adhikari.
 [Read the slideshow (PDF)](documents/weather_radiometer_interference.pdf)
+
+## Nickel Hydroxide Formation in an Electrolytic Cell
+An experimental study evaluating methods for forming nickel hydroxide for use as a catalyst in ammonia electrooxidation. Nickel hydroxide was electrochemically deposited onto a nickel foam cathode using an electrolytic cell, while the effects of cathode current density and nickel nitrate concentration on deposition were investigated. The experiments identified 0.085 M Ni(NO₃)₂ and a cathode current density of 1.1 mA/cm² as effective conditions for nickel hydroxide formation. The following paper details the experimental setup, deposition methods, results, and proposed mechanisms for nickel hydroxide formation
+
+Contribution - The experimental setup, electrolytic cell, current-control system, experiments, data, analysis, and paper were produced by me (Taylor Wang). Suggestions and revisions to the paper were provided by Professor Christen Smith.
+[Read the paper (PDF)](documents/nickel_hydroxide_synthesis.pdf)
