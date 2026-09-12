@@ -15,7 +15,7 @@ Contribution - The left ventricle identification algorithm was designed by me (T
 ## Radio Frequency Interference in Weather Radiometers (2025)
 A study of radio frequency interference in weather radiometers. Instances of radio frequency interference were marked based on radiometer data points with unreasonably high values. Then, a proprietary neural network that converts radiometer data to water vapor concentrations was recreated to fully understand how the interference affected downstream data. The slideshow details how the interference was identified and how the neural network was designed.
 
-Contribution - The interference plots and neural network were produced by me (Taylor Wang). The interference identification algorithm was produced by my mentor Abhishek Adhikari.
+Contribution - The interference plots and neural network were produced by me (Taylor Wang). The interference identification criteria was determined by my mentor Abhishek Adhikari.
 [Read the slideshow (PDF)](documents/weather_radiometer_interference.pdf)
 
 ## Energy Harvesting with a Piezoelectric Material Situated on an Oscillating Cantilever (2024)
