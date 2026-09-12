@@ -3,7 +3,7 @@ B.S. Electrical Engineering, Columbia University | Expected Graduation: May 2027
 
 Hello, my name is Taylor Wang. I am pursuing a B.S. in Electrical Engineering at Columbia University and expect to graduate in May 2027. Following graduation, I plan to pursue opportunities in either academia or industry. My primary interests are in signal processing, remote sensing, and computational imaging. More broadly, I have developed a strong interdisciplinary foundation spanning electrical engineering, programming, physics, and chemistry, enabling me to approach complex technical problems from multiple perspectives. This portfolio highlights a selection of projects that reflect my technical skills, research experience, and problem-solving approach.
 
-[Read my resume (PDF)](documents/resume.pdf)
+[Read my CV (PDF)](documents/taylor_wang_cv.pdf)
 
 # Projects
 ## Left Ventricle Identification in Echocardiograms (2025)
